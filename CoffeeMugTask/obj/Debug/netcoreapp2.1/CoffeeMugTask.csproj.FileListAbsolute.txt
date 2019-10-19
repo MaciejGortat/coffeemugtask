@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\CoffeeMugTask\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\admin\source\repos\CoffeeMugTask\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\admin\source\repos\CoffeeMugTask\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\admin\source\repos\CoffeeMugTask\bin\Debug\netcoreapp2.1\CoffeeMugTask.deps.json
+C:\Users\admin\source\repos\CoffeeMugTask\bin\Debug\netcoreapp2.1\CoffeeMugTask.runtimeconfig.json
+C:\Users\admin\source\repos\CoffeeMugTask\bin\Debug\netcoreapp2.1\CoffeeMugTask.runtimeconfig.dev.json
+C:\Users\admin\source\repos\CoffeeMugTask\bin\Debug\netcoreapp2.1\CoffeeMugTask.dll
+C:\Users\admin\source\repos\CoffeeMugTask\bin\Debug\netcoreapp2.1\CoffeeMugTask.pdb
+C:\Users\admin\source\repos\CoffeeMugTask\obj\Debug\netcoreapp2.1\CoffeeMugTask.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\CoffeeMugTask\obj\Debug\netcoreapp2.1\CoffeeMugTask.RazorAssemblyInfo.cache
+C:\Users\admin\source\repos\CoffeeMugTask\obj\Debug\netcoreapp2.1\CoffeeMugTask.RazorAssemblyInfo.cs
+C:\Users\admin\source\repos\CoffeeMugTask\obj\Debug\netcoreapp2.1\CoffeeMugTask.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\CoffeeMugTask\obj\Debug\netcoreapp2.1\CoffeeMugTask.AssemblyInfo.cs
+C:\Users\admin\source\repos\CoffeeMugTask\obj\Debug\netcoreapp2.1\CoffeeMugTask.RazorTargetAssemblyInfo.cache
+C:\Users\admin\source\repos\CoffeeMugTask\obj\Debug\netcoreapp2.1\CoffeeMugTask.dll
+C:\Users\admin\source\repos\CoffeeMugTask\obj\Debug\netcoreapp2.1\CoffeeMugTask.pdb
+C:\Users\admin\source\repos\CoffeeMugTask\bin\Debug\netcoreapp2.1\Products.json
